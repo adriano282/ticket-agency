@@ -1,0 +1,9 @@
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/exception/SeatBookedException.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/boundary/TheatreBooker.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/exception/NotEnoughMoneyException.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/boundary/TheatreInfo.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/control/TheatreBox.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/model/Seat.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/boundary/TheatreInfoRemote.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/boundary/TheatreBookerRemote.java
+/home/adriano/Development/workspace/eclipse_projects/ticket-agency/ticket-agency-ejb/src/main/java/com/wflydevelopment/chapter3/exception/NoSuchSeatException.java
